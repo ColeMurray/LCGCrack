@@ -9,7 +9,7 @@ Program will return (a,b,m) that satisfy decryption.
 
 Decrypt: substitute a,b,m into their respective locations and run.
 
-
+<pre>
 ├───LCGCipher
 │       Decrypt.cpp
 │       lcgcrack.cpp
@@ -21,4 +21,4 @@ Decrypt: substitute a,b,m into their respective locations and run.
         freqDist.xlsx
         FrequencyCount.cpp
         transposition.cpp
-
+</pre>
